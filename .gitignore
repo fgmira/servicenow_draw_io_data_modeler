@@ -1,0 +1,17 @@
+/bin/**
+/include/**
+/lib/**
+/lib64/**
+pyvenv.cfg
+lib64
+/libraries/__pycache__/**
+stupid_test.py
+.vscode/py_draw_io.code-workspace
+<mxGraphModel dx="2062" dy="840" grid="1.xml
+Untitled Diagram.drawio
+no_name.drawio
+.vscode/launch.json
+log_app.log
+.$no_name.drawio.dtmp
+.$Untitled Diagram.drawio.dtmp
+.$no_name.drawio.bkp

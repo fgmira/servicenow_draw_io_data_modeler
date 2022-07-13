@@ -1,0 +1,28 @@
+{
+    "instance_url": "https://dev99999.service-now.com",
+    "auth": {
+        "type": "basic",
+        "basic": {
+            "user": "admin",
+            "password": "pwd"
+        },
+        "oauth": {
+            "client_id": "",
+            "client_secret": ""
+        }
+    },
+    "table_list":[
+         "x_210268_data_fish_business_rules_sources"
+        ,"x_210268_data_fish_records_processing_queue"
+        ,"x_210268_data_fish_tables_configs"
+        ,"sys_user"
+        ,"sys_user_delegate"
+        ,"sys_user_geo_location"
+        ,"sys_user_grmember"
+        ,"sys_user_group"
+        ,"sys_user_group_type"
+        ,"sys_user_has_license"
+        ,"sys_user_has_role"
+        ,"sys_user_role"
+    ]
+}
