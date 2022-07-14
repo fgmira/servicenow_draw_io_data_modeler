@@ -206,7 +206,7 @@ Generating the data model
 
 ## :stars: Thanks
     
-    Here I leave a thank you to @github/GanizaniSitara, who shared the code in his [drawio project](https://github.com/GanizaniSitara/drawio) project that gave me a way to start building this tool
+Here I leave a thank you to @github/GanizaniSitara, who shared the code in his [drawio project](https://github.com/GanizaniSitara/drawio) project that gave me a way to start building this tool
 
     
 
